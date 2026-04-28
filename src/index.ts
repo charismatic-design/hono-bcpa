@@ -48,4 +48,8 @@ app.post('/signin', async (c) => {
   return c.json({ message: 'Login successful', user: { id: user.id, name: user.name, email: user.email } });
 });
 
+<<<<<<< HEAD
 export default app;
+=======
+export default app;
+>>>>>>> cd78337 (Skeleton)
