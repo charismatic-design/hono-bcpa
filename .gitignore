@@ -1,2 +1,6 @@
 # deps
 node_modules/
+
+# local sqlite database
+crud.sqlite
+crud.sqlite-*
